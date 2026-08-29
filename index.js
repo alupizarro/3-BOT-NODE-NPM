@@ -1,0 +1,1 @@
+console.log("¡Hola! El proyecto del bot está funcionando correctamente.");
