@@ -210,11 +210,6 @@ npm install lodash
 npm install --save-dev nodemon
 npm install
 npm ci
-git init
-git status
-git add .
-git commit -m "Crear proyecto Node.js y npm"
-git log --oneline
 ```
 
 ## Repositorio instalable
